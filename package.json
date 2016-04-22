@@ -1,0 +1,19 @@
+{
+  "name": "tesst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "cheerio": "^0.20.0",
+    "noodlejs": "^0.3.2",
+    "q": "^1.4.1",
+    "request": "^2.72.0"
+  }
+}
